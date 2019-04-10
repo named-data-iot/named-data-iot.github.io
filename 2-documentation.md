@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documentation
-description: Lorem ipsum dolor est
+description: Powered by Doxygen
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: NDN-Lite Tutorial
 layout: landing
-description: 'A Step-by-Step tutorial to help you set up your NDN-Lite enabled IoT device.'
+description: A Step-by-Step tutorial to help you set up your NDN-Lite enabled IoT device.
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

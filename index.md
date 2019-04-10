@@ -8,6 +8,8 @@ author: null
 show_tile: false
 ---
 
+<img src="https://zhiyi-zhang.com/images/ndn-lite-logo.jpg" alt="logo" width="500"/>
+
 The network stack can be applied to any platforms that support C, requiring a minimum version of C11 (ISO/IEC 9899:2011).
 To work with the network interfaces (e.g., Bluetooth, Bluetooth Low Energy, IEEE 802.15.4, etc.) and hardware crypto interfaces (e.g., hardware ECC support, hardware pseudo random generator, etc.), proper adaptation work is required.
 
