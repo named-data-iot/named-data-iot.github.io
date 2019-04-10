@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: NDN-Lite Tutorial
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'A Step-by-Step tutorial to help you set up your NDN-Lite enabled IoT device.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
