@@ -1,6 +1,6 @@
 # site settings
 title: ndn-lite
-subtitle: Leaded by Internet Research Lab (IRL) @ UCLA
+subtitle: Led by Internet Research Lab (IRL) @ UCLA
 email: youremailaddress@gmail.com
 description: The NDN-Lite library implements the Named Data Networking Stack with the high-level application support functionalities and low-level OS/hardware adaptations for Internet of Things (IoT) scenarios.
 baseurl: # the subpath of your site, e.g. /blog

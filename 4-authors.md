@@ -15,7 +15,7 @@ nav-menu: true
 			<h1>NDN-Lite Team</h1>
 		</header>
 
-<p>Our team blababla.</p>
+<p>Welcome to join our team and contribute to a better data-centric IoT software architecture.</p>
 
 <!-- Content -->
 <h2 id="content">Project Leaders</h2>
