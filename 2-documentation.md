@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Documentation Center
-description: Check the documentation.
+description: Check the documentation
 nav-menu: true
 ---
 

@@ -2,7 +2,7 @@
 title: ndn-lite
 subtitle: Led by Internet Research Lab (IRL) @ UCLA
 email: youremailaddress@gmail.com
-description: The NDN-Lite library implements the Named Data Networking Stack with the high-level application support functionalities and low-level OS/hardware adaptations for Internet of Things (IoT) scenarios.
+description: The NDN-Lite library implements the Named Data Networking protocol stack with the high-level application support functionalities and low-level OS/hardware adaptations for Internet of Things (IoT) scenarios.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -15,7 +15,7 @@ phone: (121) 111-111
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 7
+tiles-count: 6
 
 # social settings
 500px_url:
