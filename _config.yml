@@ -3,8 +3,8 @@ title: ndn-lite
 subtitle: Led by Internet Research Lab (IRL) @ UCLA
 email: youremailaddress@gmail.com
 description: The NDN-Lite library implements the Named Data Networking protocol stack with the high-level application support functionalities and low-level OS/hardware adaptations for Internet of Things (IoT) scenarios.
-baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl:
+url: https://ndn-lite.named-data.net
 author:
 street_address: 404 Westwood Plaza
 city: Los Angeles
