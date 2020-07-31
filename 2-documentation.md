@@ -18,9 +18,9 @@ nav-menu: true
 				<header class="major">
 					<h3>NDN-Lite Library Documentation</h3>
 				</header>
-				<p>This documentation includes the modules, data structures, and other information that are useful when you are developing applications over NDN-Lite.</p>
+				<p>This documentation includes information that are useful when you are developing applications over NDN-Lite.</p>
 				<ul class="actions">
-					<li><a href="https://zjkmxy.github.io/ndn-lite-docs/index.html" class="button">Learn more</a></li>
+					<li><a href="https://ndn-iot-package-over-posix.readthedocs.io/en/latest/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
